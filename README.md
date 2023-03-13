@@ -1,6 +1,6 @@
 # Summary: 
-Project to import the data into database from json log files & song files
-Add the Database schema design with the tables and the columns
+This project is used to import the data into database from json log files & song files
+
 
 # sql_queries.py:
 This file includes all the queries which be used in project
